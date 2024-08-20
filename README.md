@@ -1,5 +1,5 @@
 <div align="center">
-   	<h1 align="center">Hi, I'm Andrés! </h1>
+   	<h1 align="center">Hi, I'm Andrés! 👋​</h1>
     	<a href="https://www.linkedin.com/in/andres-fuentes-mart%C3%ADnez-57a6ba275">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
