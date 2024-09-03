@@ -31,7 +31,7 @@
 
 <h3>Languages</h3>
 
-<a href="https://skillicons.dev">
+<a href="https://github.com/afuentes-dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=14" />
   </a>
 
@@ -39,7 +39,7 @@
 
 <h3>Front-End Development</h3>
 
-<a href="https://skillicons.dev">
+<a href="https://github.com/afuentes-dev">
     <img src="https://skillicons.dev/icons?i=html,css,js&perline=14" />
   </a>
 
@@ -47,7 +47,7 @@
 
 <h3>Softwares and Tools</h3>
 
-<a href="https://skillicons.dev">
+<a href="https://github.com/afuentes-dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=14" />
   </a>
 
