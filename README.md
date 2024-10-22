@@ -61,7 +61,7 @@
 	</a>
 	<br>
 
-[![afuentes's 42 stats](https://badge.mediaplus.ma/greenbinary/afuentes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![afuentes's 42 stats](https://badge.mediaplus.ma/kettlebells/afuentes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 </div>	
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
