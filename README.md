@@ -7,10 +7,7 @@
 
 <div align="center">
    	<h1 align="center">Hi, I'm Andrés! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">​</h1>
-	
-[![afuentes's 42 stats](https://badge.mediaplus.ma/binary/afuentes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-<a href="https://www.linkedin.com/in/afuentes-dev">
+	<a href="https://www.linkedin.com/in/afuentes-dev">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="mailto:andresfuentesmartinez1@gmail.com">
@@ -62,7 +59,10 @@
 	<a href="https://github.com/afuentes-dev"><img alt="Afuentes's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=afuentes-dev&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true" height="192" width="45%"/></a>
 	<a href="https://github.com/afuentes-dev"><img alt="Andres Fuentes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=afuentes-dev&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true" height="192px" width="45%"/></a>
 	</a>
-</div>
+	<br>
+
+[![afuentes's 42 stats](https://badge.mediaplus.ma/greenbinary/afuentes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>	
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
