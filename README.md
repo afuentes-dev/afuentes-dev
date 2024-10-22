@@ -7,8 +7,10 @@
 
 <div align="center">
    	<h1 align="center">Hi, I'm Andrés! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">​</h1>
-    	[![afuentes's 42 stats](https://badge.mediaplus.ma/binary/afuentes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-	<a href="https://www.linkedin.com/in/afuentes-dev">
+	
+[![afuentes's 42 stats](https://badge.mediaplus.ma/binary/afuentes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+<a href="https://www.linkedin.com/in/afuentes-dev">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="mailto:andresfuentesmartinez1@gmail.com">
